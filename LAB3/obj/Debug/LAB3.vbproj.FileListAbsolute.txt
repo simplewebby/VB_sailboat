@@ -1,0 +1,12 @@
+C:\Users\tsaga\source\repos\LAB3\LAB3\bin\Debug\LAB3.exe.config
+C:\Users\tsaga\source\repos\LAB3\LAB3\bin\Debug\LAB3.exe
+C:\Users\tsaga\source\repos\LAB3\LAB3\bin\Debug\LAB3.pdb
+C:\Users\tsaga\source\repos\LAB3\LAB3\bin\Debug\LAB3.xml
+C:\Users\tsaga\source\repos\LAB3\LAB3\obj\Debug\LAB3.vbprojResolveAssemblyReference.cache
+C:\Users\tsaga\source\repos\LAB3\LAB3\obj\Debug\LAB3.Form1.resources
+C:\Users\tsaga\source\repos\LAB3\LAB3\obj\Debug\LAB3.Resources.resources
+C:\Users\tsaga\source\repos\LAB3\LAB3\obj\Debug\LAB3.vbproj.GenerateResource.Cache
+C:\Users\tsaga\source\repos\LAB3\LAB3\obj\Debug\LAB3.vbproj.CoreCompileInputs.cache
+C:\Users\tsaga\source\repos\LAB3\LAB3\obj\Debug\LAB3.exe
+C:\Users\tsaga\source\repos\LAB3\LAB3\obj\Debug\LAB3.xml
+C:\Users\tsaga\source\repos\LAB3\LAB3\obj\Debug\LAB3.pdb
